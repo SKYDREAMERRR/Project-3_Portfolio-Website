@@ -25,8 +25,8 @@ To view the website locally:
 
 1. Clone the repository:
    git clone https://github.com/SKYDREAMERRR/Project-3_Portfolio-Website.git
-
-2.Navigate to the project directory:
-  cd Project-3_Portfolio-Website
-
-3.Open index.html in your preferred web browser.
+   
+3. Navigate to the project directory:
+   cd Project-3_Portfolio-Website
+   
+5. Open index.html in your preferred web browser.
