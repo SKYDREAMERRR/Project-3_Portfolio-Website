@@ -4,10 +4,11 @@ A responsive and modern personal portfolio website built using HTML, CSS, and Ja
 
 ## 🚀 Features
 
-- Responsive design for various devices
-- Interactive navigation menu
-- Showcase of projects and skills
-- Contact form integration
+- 💻 Fully responsive and mobile-friendly design
+- 👨‍💻 Developer profile with About Me, Skills, and Projects sections
+- 🖼️ Hero section with animated text and CTA buttons
+- 📥 Resume download and GitHub project links
+- 🌐 Social media integration (LinkedIn, GitHub, Email)
 
 ## 📸 Live Demo
 
@@ -26,7 +27,11 @@ To view the website locally:
 1. Clone the repository:
    git clone https://github.com/SKYDREAMERRR/Project-3_Portfolio-Website.git
    
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    cd Project-3_Portfolio-Website
    
-5. Open index.html in your preferred web browser.
+3. Open index.html in your preferred web browser.
+
+## 📬 Contact
+
+For any inquiries or feedback, please contact pearljaiswal1990@gmail.com
